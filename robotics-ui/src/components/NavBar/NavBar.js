@@ -16,9 +16,9 @@ class NavBar extends Component {
           <NavTitle>Arcadia Titans FIRST Robotics</NavTitle>
         </NavHeader>
         <NavBody>
-          <a href='#about-us'>About Us</a>
+          <a href='#our-mission'>Our Mission</a>
           <a href='#our-robots'>Our Robots</a>
-          <a>Our Awards</a>
+          <a href='#our-awards'>Our Awards</a>
         </NavBody>
       </NavWrapper>
     );
