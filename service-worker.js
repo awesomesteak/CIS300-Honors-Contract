@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CIS300-Honors-Contract/precache-manifest.e78a907879b48c16df94b596b80a2d0f.js"
+  "/CIS300-Honors-Contract/precache-manifest.b75533db9839198553c236d5029715be.js"
 );
 
 self.addEventListener('message', (event) => {
