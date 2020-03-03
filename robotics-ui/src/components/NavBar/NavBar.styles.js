@@ -25,17 +25,23 @@ export const NavTitle = styled.div`
 
 export const NavBody = styled.div`
   display: flex;
-  padding-left: 20px;
+  justify-content: space-evenly;
   background-color: #1a326f;
   color: white;
 
   & a {
     margin: 10px;
     font-size: 1.65em;
+    font-weight: bold;
   }
 
   & a:link, a:visited {
     color: white;
     text-decoration: none;
+  }
+
+  & a:hover {
+    color: #38d1ff;
+    text-decoration: underline;
   }
 `;

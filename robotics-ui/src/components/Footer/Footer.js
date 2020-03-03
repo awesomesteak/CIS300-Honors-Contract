@@ -7,7 +7,7 @@ class Footer extends Component {
   render() {
     return (
       <FooterWrapper>
-        <div>Copyright © 2020 Connor Sonnier</div>
+        <div>Copyright © 2020 Arcadia Titans FIRST Robotics</div>
         <a>titanrobotics3187@gmail.com</a>
       </FooterWrapper>
     );

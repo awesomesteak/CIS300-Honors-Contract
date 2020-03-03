@@ -19,6 +19,7 @@ class NavBar extends Component {
           <a href='#our-mission'>Our Mission</a>
           <a href='#our-robots'>Our Robots</a>
           <a href='#our-awards'>Our Awards</a>
+          <a href='#contact-us'>Contact Us</a>
         </NavBody>
       </NavWrapper>
     );
